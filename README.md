@@ -11,9 +11,9 @@ Allow api permission to User.Read scope
 Copy these files on /frontpage folder of RadSystem generated project folder
 Edit file authConfig.js
 Set CLIENTID & Authority URL based on Azure App Registrations
-Done!
+Done
 
-#to-do
+# to-do
 Logout link/url, put these on button.vue and set on click event to logoutRedirect function
 
 example
