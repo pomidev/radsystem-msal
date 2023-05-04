@@ -8,7 +8,7 @@ Setup Azure app or use existing azure app
 Allow api permission to User.Read scope
 
 # how-to-use
-Copy these files on /frontpage folder of RadSystem generated project folder
+Copy these files on /frontpage folder of RadSystem generated project folder<br/>
 Edit file authConfig.js
 Set CLIENTID & Authority URL based on Azure App Registrations
 Done
