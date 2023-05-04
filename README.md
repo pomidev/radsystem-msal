@@ -9,8 +9,13 @@ Allow api permission to User.Read scope
 
 # how-to-use
 Copy these files on /frontpage folder of RadSystem generated project folder<br/>
-Edit file authConfig.js
-Set CLIENTID & Authority URL based on Azure App Registrations
+Edit file authConfig.js<br/>
+Set CLIENTID & Authority URL based on Azure App Registrations<br/>
+any page/route that need to protected just add (see router/index.js for implementation) <br/>
+...<br/>
+meta : {	requiresAuth: true }, <br/>
+...<br/>
+
 Done
 
 # to-do
