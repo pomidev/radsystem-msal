@@ -3,7 +3,7 @@ Implement Azure AD - MSAL plugin on RADSystem application based
 This method currently support for SPA based application
 Other application mode need to improve!!!
 
-#prerequisite
+# prerequisite
 Setup Azure app or use existing azure app
 Allow api permission to User.Read scope
 
