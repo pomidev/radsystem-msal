@@ -14,8 +14,8 @@ Other application mode need to improve!!!<br/>
 - any page/route that need to protected just add (see router/index.js for implementation) <br/>
 ```javascript
 ...
-meta : {	requiresAuth: true }, <br/>
-...<br/>
+meta : {	requiresAuth: true }, 
+...
 ```
 
 Done
